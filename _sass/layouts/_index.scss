@@ -36,6 +36,7 @@
 
 // Work listing
 .work {
+
   h2 {
     text-align: center;
   }
@@ -47,6 +48,7 @@
     margin-right:0.5%;
     margin-left:0.5%;
     margin-bottom: 0;
+    margin-top: 3.0%;
     display: inline-block;
     p a:hover {
       @extend %link-hover;
@@ -56,6 +58,8 @@
     margin-top: 1em;
   }
 }
+
+
 // Pagination
 .pagination .button {
   margin: 0 1.5em;

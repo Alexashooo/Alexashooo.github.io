@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://Alexashooo.github.io"
+url: "http://alekssunjic.tech/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -19,7 +19,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: 
+  email_address:
   behance:
   bitbucket:
   github: "Alexashooo"

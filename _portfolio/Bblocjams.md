@@ -3,7 +3,7 @@ layout: post
 title: BlocJams
 feature-img: "img/bloc_jams_player2.png"
 thumbnail-path: "img/bloc_jams_angular_home_page.png"
-short-description: BlocJams, awesome song player!
+short-description: An awesome song player!
 
 ---
 Bloc Jams is main part of Bloc’s curriculum for teaching Front-end development. The application's main purpose is to allow users to search albums in their library and play music. This is “pure" front-end application and it looks cool.

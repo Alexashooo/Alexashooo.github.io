@@ -3,7 +3,7 @@ layout: post
 title: Pong
 feature-img: "img/pong_just_the_ball.png"
 thumbnail-path: "img/pong_main_page.png"
-short-description: Pong, grandfather of all computer games!
+short-description: The grandfather of all games!
 
 ---
 Pong is one of the first computer games ever created (if not the first one). Goal of this project was to recreate this legendary game with pure ("vanilla") JavaScript and HTML 5 canvas element.  

@@ -3,7 +3,7 @@ layout: post
 title: Green street
 feature-img: "img/green_street_tmodes.png"
 thumbnail-path: "img/street_profile_landing.gif"
-short-description: Green street, have fun while planning!
+short-description: Have fun while planning!
 
 ---
 Green street is a web application which should serve as a tool for street planning and education, regardless of whether it is going to be used by
@@ -14,7 +14,7 @@ Users can make their own proposals for street profiles by simply dragging, dropp
 that makes a street. The idea is not new but I wanted to make some kind of "localization" for Scandinavian market, with more suitable elements and to
 add some extra functionality. The application is gonna a be free for all users.
 
-Back-end of the application, as mentioned above, is coded in Rails. For user authentication Devise gem is used. Users can create their profiles, which will give them possibility to save their work. Rails communicates with Angular, as expected, through an API. All routing is happening in Angular with UI-router.
+Back-end of the application, as mentioned above, is coded in Rails. Once the application is finished users should be able to create profiles, which will give them possibility to save their work.  All routing is happening in Angular with UI-router.
 
 There are several important elements in the front-end, such as main street profile, buildings and street elements which can be dragged and dropped. All of these are custom Angular directives with isolated scopes and they communicate through couple of services. For enable dragging, dropping and sorting jQuery-UI is used with customized elements to suit the purpose of the project.
 

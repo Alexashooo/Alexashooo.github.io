@@ -3,7 +3,7 @@ layout: post
 title: Bloccit
 feature-img: "img/bloccit_blue.png"
 thumbnail-path: "img/bloccit_home_page.png"
-short-description: Bloccit, share your thoughts!
+short-description: Share your thoughts!
 
 ---
 Bloccit is part of Bloc curriculum for Rails web development. It is similar to Reddit, where users can post, share, vote on and save links and comments.

@@ -3,7 +3,7 @@ layout: post
 title: Blocitoff
 feature-img: "img/blocitoff_grey.png"
 thumbnail-path: "img/blocitoff_home_page2.png"
-short-description: Blocitoff, awesome to-do app!
+short-description: To-do app, no more, no less
 
 ---
 One of the most common applications that almost every developer starts with is a to-do list. So, I'm no exception.
